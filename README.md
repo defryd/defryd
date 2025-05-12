@@ -19,7 +19,7 @@
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img 
   alt="JavaScript" 
-  src="https://img.shields.io/badge/-JavaScript-FEDA0F?style=flat-square&logo=javascript&logoColor=white" 
+  src="https://img.shields.io/badge/-JavaScript-FEDA0F?style=flat-square&logo=javascript&logoColor=black" 
   />
 </p>
 
