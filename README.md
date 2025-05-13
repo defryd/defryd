@@ -2,7 +2,7 @@
 
 
 <p>Welcome to my github profile! </br> I'm Freddy, Developer from <img src="https://img.icons8.com/color/344/colombia-circular.png" width="13"/> <b>Colombia</b>. </p>
-<h3>Things I code with</h3>
+<h3>Skills in</h3>
 <p>
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -36,7 +36,7 @@
 <h3>Where to find me</h3>
 <p>
 <a href="https://github.com/Izequ" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/freddychiav" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/freddychiav" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 
 ------------
