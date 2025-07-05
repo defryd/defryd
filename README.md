@@ -4,7 +4,7 @@
 <p>Welcome to my github profile! </br> I'm Freddy, Developer from <img src="https://img.icons8.com/color/344/colombia-circular.png" width="13"/> <b>Colombia</b>. </p>
 
 <h2>Skills in</h2>
-<p align="center">
+<p>
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="gitflow" src="https://img.shields.io/badge/-Gitflow-F05032?style=flat-square&logo=git&logoColor=white" />
