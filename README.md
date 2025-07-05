@@ -33,6 +33,17 @@
 
 </p>
 
+<h2 align="center">📈 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=defryd&show_icons=true&theme=tokyonight&hide=prs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=defryd&theme=tokyonight" />
+</p>
+
+
 <h3>Where to find me</h3>
 <p>
 <a href="https://github.com/Izequ" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
